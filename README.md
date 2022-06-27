@@ -16,7 +16,7 @@
 
 config.txt文件记录配置信息，包括上位机与下位机通信的串口号、使用的摄像头以及图像处理阈值；
 
-CascadeClassifierModel文件夹下的RedChess.yml与BlackChess.yml文件为级联分类器模型，用于对棋子分类，该模型的训练方法见：xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+CascadeClassifierModel文件夹下的RedChess.yml与BlackChess.yml文件为级联分类器模型，用于对棋子分类，该模型的训练方法见：https://github.com/STM32xxx/OpenCV-Cascade-Classifier
 
 环境配置无误，串口地址及摄像头地址无误，输入"pip3 HMI.py"即可运行；
 
