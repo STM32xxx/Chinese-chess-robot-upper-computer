@@ -1,0 +1,6 @@
+# 象棋机器人配置文件
+serialPortNumber=COM5 		# 串口号
+cameraNumber=1 			# 摄像头编号
+houghCirclesDeteThreshold=600 	# 霍夫圆检测阈值
+robotDeteThreshold=200 		# 机械臂检测阈值
+colorClassifyThreshold=110 		# 红黑棋子分类阈值
